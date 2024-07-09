@@ -1,0 +1,317 @@
+@media screen and (max-width: 1280px) {
+  #posts .slick-slide {
+    width: 330px !important;
+  }
+  #posts .slick-list { height: 370px;}
+  .slick-next {
+    right: 0;
+  }
+  /* #newBrands .products-list__product {
+    margin-right: 5px;
+  } */
+  .newBrands .products-list__product {
+    padding: 9px;
+  }
+  .contactsBanner__content-row {
+    flex-direction: column;
+  }
+  .container {
+    max-width: 95%;
+    margin: 0 auto;
+  }
+  .contactsBanner__content-row {
+    width: 648px;
+    margin: 0 auto;
+  }
+  .contactsBanner__content-row__left {
+    margin-bottom: 40px;
+  }
+  .productLinks__row {
+    margin: 0 auto;
+    width: 75%;
+  }
+    .top__add__button-close {
+      right: 50px;
+    }
+    .header__row {
+      width: 80%;
+      margin: 0 auto;
+    }
+    .catalog__catalog-button {
+      width: 260px;
+    }
+    .catalog__banners {
+      width: 940px;
+      margin: auto;
+    }
+    .catalog__banners__slider__el img {
+      width: 100%;
+    }
+    .catalog__top-row__right__row {
+      width: 950px;
+    }
+    .catalog__top-row__el {
+      width: 115px;
+    }
+    .catalog__banners__bottom-row__el {
+      width: 290px;
+      height: 200px;
+    }
+  
+}
+@media screen and (max-width: 1150px) {
+  .footer__content__row {
+    flex-direction: column;
+    margin-bottom: 25px;
+  }
+  .footer__content__row__column {
+    margin-bottom: 35px;
+  }
+  .footer__sub__row {
+    flex-direction: column;
+  }
+  .footer__sub__left {
+    margin-bottom: 30px;
+  }
+  .newBrands .products-list__products-row {
+    flex-wrap: wrap;
+    width: 630px;
+    margin: 0 auto;
+  }
+  .certificates__row {
+    flex-wrap: wrap;
+  }
+  .certificates__row__el {
+    width: 31%;
+    margin-bottom: 30px;
+  }
+  .certificates__row__el.centerElement {
+    width: 45%;
+  }
+  .brands .container {
+    flex-direction: column;
+    width: 95%;
+    margin: 0 auto;
+  }
+  .brands__left,
+  .brands__right {
+    width: 100%;
+  }
+  .brands__left__allBrands__row {
+    max-width: 575px;
+    margin: 0 auto 25px;
+  }
+  .brands__right__column__el {
+    margin: 0 auto 10px;
+  }
+  .exclusive-brands__row {
+    padding-bottom: 80px;
+  }
+  .productLinks__row {
+    width: 432px;
+  }
+  .aboutOnlineShopInfo .container::after {
+    display: none;
+  }
+  .aboutOnlineShopInfo .container {
+    width: 95%;
+    margin: 0 auto;
+  }
+  .products-list__top-row {
+    width: 95%;
+    margin: 0 auto 46px;
+  }
+  .products-list__product {
+    padding: 12px;
+  }
+  .products-list-slider {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .products-list__product {
+    width: auto;
+    margin: 0;
+  }
+  .catalog__top-row__right {
+    width: 95%;
+    margin: 0 auto;
+  }
+  .catalog__banners {
+    width: 100%;
+  }
+  .adaptiveMenu__row {
+    display: flex;
+  }
+    .header__menu__row {
+      padding: 8px;
+    }
+    .header__menu__logo-desc {
+      display: none;
+    }
+    
+    .header__menu__form {
+      display: none;
+    }
+    header {
+      margin-bottom: 0;
+    }
+    .catalog__top-row__left {
+      display: none;
+    }
+    .catalog__top-row__right__row {
+      display: none;
+    }
+    .header__menu__button-row__el__text {
+      display: none;
+    }
+    .header__menu__button-row__el {
+      height: auto;
+    }
+  
+}
+
+@media screen and (max-width: 1000px) {
+  .posts__slider__el__img,
+  .posts__slider__el__content {
+    margin: 0 auto;
+  }
+  .posts__slider {
+    margin: 0 auto 25px;
+    width: 85%;
+  }
+  .contactsBanner__content-row__right {
+    width: 100%;
+  }
+  .catalog__banners__bottom-row {
+    flex-direction: column;
+  }
+  .catalog__banners__bottom-row__el {
+    margin: 0 auto 25px;
+  }
+  .aboutOnlineShopInfo__row__el  {
+    width: 100%;
+  }
+  .aboutOnlineShopInfo__row__el {
+    margin-bottom: 25px;
+  }
+  .aboutOnlineShopInfo__title {
+    font-size: 36px;
+    text-align: center;
+  }
+  .aboutOnlineShopInfo__row {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+  #posts .slick-slide {
+    width: 299px !important;
+  }
+  .contactsBanner__content-row,
+  .contactsBanner__content-row__left,
+  .contactsBanner__content-row__left img,
+  .contactsBanner__content-row__right__el {
+    width: 100%;
+  }
+} 
+@media screen and (max-width: 700px) {
+  .footer__sub__right__input {
+    width: 210px;
+  }
+  .footer__sub__button {
+    width: 130px;
+    font-size: 14px;
+  }
+  .footer__sub__right {
+    width: 360px;
+  }
+  .newBrands .products-list__products-row {
+    width: 400px;
+  }
+  .exclusive-brands__row {
+    flex-wrap: wrap;
+  }
+  .exclusive-brands__row__el {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .products-list-slider {
+    width: 83%;
+    margin: 0 auto;
+  }
+  .header__row {
+    width: 95%;
+    margin: 0 auto;
+  }
+  .header__row-left {
+    width: 200px;
+  }
+  .header__menu__form__input-text {
+    width: 260px;
+  }
+  .header__menu__button-row {
+    width: 171px;
+  }
+  .brands__right__column__el {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .footer__sub__left__text {
+    font-size: 12px;
+  }
+  .posts__slider__el__content,
+  .posts__slider__el__img {
+    width: 280px;
+  }
+  .posts__type {
+    margin: 0 auto 15px;
+  }
+  .newBrands .products-list__products-row {
+    width: 191px;
+  }
+  .products-list__title {
+    font-size: 20px;
+  }
+  .contactsBanner__title {
+    font-size: 18px;
+  }
+  .contactsBanner {
+    padding: 52px 29px;
+  }
+  .productLinks__row__el,
+  .productLinks__row__el__img::after,
+  .productLinks__row {
+    width: 350px;
+  }
+   
+  .aboutOnlineShopInfo__title {
+    font-size: 25px;
+  }
+  .aboutOnlineShopInfo__row__el__desc {
+    font-size: 18px;
+  }
+  .products-list-slider {
+    width: 83%;
+  }
+  .top__add__img  {
+    display: none;
+  }
+  .header__menu__login-button {
+    padding: 7px 8px;
+    border-radius: 12px;
+    font-size: 14px;
+  }
+  .header__menu__button-row {
+    width: 148px;
+  }
+  .header__menu__form__input-text {
+    width: 190px;
+  }
+}
